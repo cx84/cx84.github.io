@@ -1,2 +1,2 @@
 # 陈旭的个人主页
-## [学习文档一]: https://cx84.github.io
+## [学习文档一](https://cx84.github.io/pythonwork/)
